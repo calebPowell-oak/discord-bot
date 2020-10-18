@@ -8,8 +8,8 @@ client.on('ready', () => {
 })
 
 client.on('message', (msg) => {
-  if (msg.content.startsWith(`${prefix}Luke`)) {
-    msg.channel.send('Hi my name is Lucas  Liney AND I STOLE FROM  MY MOM\'S PURSE')
+  if (msg.content.startsWith(`${prefix}Lukie`)) {
+    msg.channel.send('Hi my name is Lucas Liney AND I STOLE FROM  MY MOM\'S PURSE')
   }
   if (msg.content.startsWith(`${prefix}Pavone`)) {
     msg.channel.send('https://cdn.discordapp.com/attachments/97076140069359616/766420029226352680/image0.png')
