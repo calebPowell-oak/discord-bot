@@ -1,4 +1,5 @@
 {
   "prefix": "!",
-  "token": "your_token_here"
+  "token": "your_token_here",
+  "cool": "true"
 }
